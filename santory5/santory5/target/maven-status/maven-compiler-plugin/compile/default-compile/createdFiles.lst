@@ -1,0 +1,9 @@
+com\santory5\service\impl\nuevaColeccionServiceImpl.class
+com\santory5\ProjectConfig.class
+com\santory5\Santory5Application.class
+com\santory5\service\impl\FirebaseStorageServiceImpl.class
+com\santory5\service\FirebaseStorageService.class
+com\santory5\dao\nuevaColeccionDao.class
+com\santory5\service\nuevaColeccionService.class
+com\santory5\controller\nuevaColeccionController.class
+com\santory5\domain\nuevaColeccion.class
